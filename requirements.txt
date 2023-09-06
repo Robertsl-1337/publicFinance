@@ -1,0 +1,6 @@
+pandas
+fundamentalanalysis
+matplotlib
+numpy
+streamlit
+altair<5
